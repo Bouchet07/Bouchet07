@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bouchet07&theme=one-dark-pro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bouchet07&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **Bouchet07/Bouchet07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
