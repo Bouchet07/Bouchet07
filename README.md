@@ -1,11 +1,23 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bouchet07&theme=one-dark-pro&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Bouchet07&theme=one-dark-pro&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</p>
+
+### Technologies i'm familiar with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,pytorch,matlab,anaconda,arduino,docker,fortran,gcp,git,githubactions,java,powershell,sklearn,vscode&perline=8&theme=dark" alt="My Skills"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchet07&layout=compact&theme=dracula" alt="Top Langs"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchet07&layout=compact&theme=dracula" alt="Top Langs"/>
+  </a>
 </p>
 
 <!--
