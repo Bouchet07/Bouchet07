@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bouchet07&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bouchet07&theme=one-dark-pro&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchet07&layout=compact&theme=dracula" alt="Top Langs"/>
+</p>
 
 <!--
 **Bouchet07/Bouchet07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
